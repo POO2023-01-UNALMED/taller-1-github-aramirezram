@@ -1,3 +1,11 @@
 Alejandro Ramírez Ramírez
 21
 Aspiro a comprender de manera satisfactoria la programación orientada a objetos
+
+Primero no podía subir un commit con la carpeta archivos vacía. Ahora que le agregué el archivo respuesta.txt si pude subir el commit y la carpeta archivos ahora
+aparece agregada en mi repositorio.
+
+Respuesta 14)
+Modificar dos archivos al mismo tiempo puede generar conflictos al momento de hacer 
+pull. En trabajos de gran complejidad, esto puede ser un dolor de cabeza grande para los 
+participantes.
