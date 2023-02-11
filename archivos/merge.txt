@@ -1,0 +1,2 @@
+Primero no podía subir un commit con la carpeta archivos vacía. Ahora que le agregué el archivo respuesta.txt si pude subir el commit y la carpeta archivos ahora
+aparece agregada en mi repositorio.
