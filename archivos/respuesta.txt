@@ -1,0 +1,1 @@
+El problema que ocurrió es que subí el commit anterior sin agregar la carpeta archivos. Traté de revertir el commit pero la verdad no sé muy bien como funciona entonces lo voy a dejar así.
